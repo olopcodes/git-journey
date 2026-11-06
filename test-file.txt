@@ -1,1 +1,3 @@
 this text is from dev branch
+this is from main branch
+I was shown the conflict and made changes and now can merge
